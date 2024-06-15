@@ -97,7 +97,7 @@ function TodoList() {
           />
           <input
             type="date"
-            value={newDueDate}
+            value="Enter task's due date"
             onChange={(e) => setNewDueDate(e.target.value)}
             className="task-input"
           />
