@@ -104,22 +104,22 @@ Users can add tasks with a description of their tasks and with a due date, then 
 Users can also remove the task if they want to and the tasks saved are in the local storage, so they remain available even after the page is refreshed.
 
 
-![WhatsApp Image 2024-06-15 at 11 29 49_abf9914b](https://github.com/ipsita68/to-do-list/assets/121110612/494070b1-b375-4161-aa1b-a9d34298d7f5)
-![WhatsApp Image 2024-06-15 at 11 25 57_94dab48e](https://github.com/ipsita68/to-do-list/assets/121110612/9c301736-2ac3-4a63-b623-ca6dedfc93d4)
-![WhatsApp Image 2024-06-15 at 11 26 13_329efd14](https://github.com/ipsita68/to-do-list/assets/121110612/f2f89a64-5273-4528-8613-a0c6980a8cf4)
-![WhatsApp Image 2024-06-15 at 11 26 34_c3403523](https://github.com/ipsita68/to-do-list/assets/121110612/0913dcdd-33de-4ce3-9ba2-6e5a5da11646)
-![WhatsApp Image 2024-06-15 at 11 26 52_4737d153](https://github.com/ipsita68/to-do-list/assets/121110612/eb7ed83f-1c1b-45b2-b408-d658129d6524)
-![WhatsApp Image 2024-06-15 at 11 27 11_522dc063](https://github.com/ipsita68/to-do-list/assets/121110612/b9da243e-d427-4400-835b-f37fd98760dd)
-![WhatsApp Image 2024-06-15 at 11 27 50_16f2aa94](https://github.com/ipsita68/to-do-list/assets/121110612/38d28862-e40a-415d-b74f-0d79bf69e6be)
+![WhatsApp Image 2024-06-15 at 16 07 26_61cfc7ae](https://github.com/ipsita68/to-do-list/assets/121110612/ae5d89f4-d782-4682-8e92-58c949ae46d1)
+![WhatsApp Image 2024-06-15 at 16 04 29_4734dc2b](https://github.com/ipsita68/to-do-list/assets/121110612/9e8bcbeb-4a38-432d-9b92-14969f7ab79d)
+![WhatsApp Image 2024-06-15 at 16 04 55_7d0b60eb](https://github.com/ipsita68/to-do-list/assets/121110612/3c2df213-9efe-433a-9884-d33281fd792b)
+![WhatsApp Image 2024-06-15 at 16 05 21_1cf13513](https://github.com/ipsita68/to-do-list/assets/121110612/6d84dd2e-5cfa-49f4-826b-bcfd62ea9421)
+![WhatsApp Image 2024-06-15 at 16 05 45_0efd0078](https://github.com/ipsita68/to-do-list/assets/121110612/96814b79-451b-44a0-93e4-8afb4edd3b81)
+![WhatsApp Image 2024-06-15 at 16 06 16_98e98f12](https://github.com/ipsita68/to-do-list/assets/121110612/2293cff2-06db-4168-b45a-f03cf345a3ff)
+
 
 
 ## Input Validation
 
 Input Validation has also been take care of: When users click on add task without adding a task description or a due date, they are taken to an error dialog which ensures that users are adding a task description as well as due date.
 
+![WhatsApp Image 2024-06-15 at 16 07 47_9d74f9fc](https://github.com/ipsita68/to-do-list/assets/121110612/73427edf-b214-42be-a107-a1a5084f31a6)
+![WhatsApp Image 2024-06-15 at 16 10 53_72bef9e2](https://github.com/ipsita68/to-do-list/assets/121110612/1ac5009d-4d80-4097-93a9-fc8238c302c5)
 
-![image](https://github.com/ipsita68/to-do-list/assets/121110612/27486467-92fe-4931-8fff-c81c59d9d214)
-![image](https://github.com/ipsita68/to-do-list/assets/121110612/66b18269-eee5-4d46-857c-2d9171b55423)
 
 
 
