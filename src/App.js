@@ -96,7 +96,7 @@ function TodoList() {
             className="task-input"
           />
           <input
-          placeholder="Date"
+          placeholder="Add task's due-date"
           className="textbox-n task-input" 
           type="text"
           onFocus={(e) => (e.target.type = "date")}
