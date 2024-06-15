@@ -96,11 +96,15 @@ function TodoList() {
             className="task-input"
           />
           <input
-            type="date"
-            value="Enter task's due date"
-            onChange={(e) => setNewDueDate(e.target.value)}
-            className="task-input"
-          />
+          placeholder="Date"
+          className="textbox-n task-input" 
+          type="text"
+          onFocus={(e) => (e.target.type = "date")}
+          onBlur={(e) => (e.target.type = "text")}
+          id="date"
+          value={newDueDate}
+          onChange={(e) => setNewDueDate(e.target.value)}
+        />
         </div>
         <div className="AddButton">
           <button onClick={addTask}>Add Task</button>
